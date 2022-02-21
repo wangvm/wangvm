@@ -1,16 +1,23 @@
-### Hi there 👋
+# <p align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Wang Jinbin</p>
 
-<!--
-**wangvm/wangvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <p align="center"> A backend rookie developer from China </p>
 
-Here are some ideas to get you started:
+#### <p align="center">Email : 465132131@qq.com</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### <p align="center">City : HANGZHOU CHINA</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/code-SpringBoot-brightgreen" />
+  <img src="https://img.shields.io/badge/db-MySQL-blue" />
+  <img src="https://img.shields.io/badge/code-SpringCloud-brightgreen" />
+</p>
+
+## <p align="center">About my github</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wangvm&show_icons=true&theme=dark&show_icons=true" width="500" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangvm&layout=compact&theme=dark" width="500" />
+</p>
